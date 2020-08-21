@@ -3,7 +3,7 @@
 You can find me in:
 * [Telegram](https://t.me/Philipp_Zdorov)
 * [VK](https://vk.com/phinnik)
-* <a href="tel:+79523538666">+7 952 353 8 666</a>
+* [+7 952 353 8 666](tel:+79523538666)
 
 You see, I have a beard. That means, you can trust me.
 ![Me](https://github.com/Phinnik/phinnik/blob/master/me.jpg)
