@@ -7,7 +7,7 @@
 
 ## Мои проекты:
 * [slaves_api](https://github.com/Phinnik/slaves_api) - библиотека для написания ботов в игре "Рабы"
-* [easy_vl](https://github.com/Phinnik/easy_vk) - обертка VK API для python
+* [easy_vk](https://github.com/Phinnik/easy_vk) - обертка VK API для python
 
 ## Мои контакты:
 * [Telegram](https://t.me/Philipp_Zdorov)
