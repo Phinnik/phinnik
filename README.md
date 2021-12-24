@@ -6,6 +6,7 @@
 * [Jet Brains (2020)](https://github.com/Phinnik/article_citation) - проектная работа
 
 ## Мои проекты:
+* [bacteria_mitosis](https://github.com/Phinnik/bacteria_mitosis) - предсказание "был ли рост бактерий" по двум фотографиям (учебный проект)
 * [slaves_api](https://github.com/Phinnik/slaves_api) - библиотека для написания ботов в игре "Рабы"
 * [easy_vk](https://github.com/Phinnik/easy_vk) - обертка VK API для python
 
