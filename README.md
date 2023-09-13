@@ -1,6 +1,7 @@
 ## Hi, i'm Philipp Zdorov
 
 ## Мои проекты:
+* [daily_config_backup](https://github.com/Phinnik/daily_config_backup) - bash скрипт для бэкапа в гитхаб
 * [skin_disease](https://github.com/Phinnik/skin_disease) - классификация кожных заболеваний по фото
 * [bacteria_mitosis](https://github.com/Phinnik/bacteria_mitosis) - предсказание "был ли рост бактерий" по двум фотографиям (учебный проект)
 * [slaves_api](https://github.com/Phinnik/slaves_api) - библиотека для написания ботов в игре "Рабы"
